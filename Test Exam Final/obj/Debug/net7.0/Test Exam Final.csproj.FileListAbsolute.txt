@@ -29,3 +29,34 @@ C:\Users\emil-\Documents\EASV\Test\Test Exam Final\Test Exam Final\obj\Debug\net
 C:\Users\emil-\Documents\EASV\Test\Test Exam Final\Test Exam Final\obj\Debug\net7.0\Test Exam Final.pdb
 C:\Users\emil-\Documents\EASV\Test\Test Exam Final\Test Exam Final\obj\Debug\net7.0\Test Exam Final.genruntimeconfig.cache
 C:\Users\emil-\Documents\EASV\Test\Test Exam Final\Test Exam Final\obj\Debug\net7.0\ref\Test Exam Final.dll
+C:\Users\londo\Source\Repos\piprap\EASV-Test-exam\Test Exam Final\obj\Debug\net7.0\Test Exam Final.csproj.AssemblyReference.cache
+C:\Users\londo\Source\Repos\piprap\EASV-Test-exam\Test Exam Final\obj\Debug\net7.0\Test Exam Final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\londo\Source\Repos\piprap\EASV-Test-exam\Test Exam Final\obj\Debug\net7.0\Test Exam Final.AssemblyInfoInputs.cache
+C:\Users\londo\Source\Repos\piprap\EASV-Test-exam\Test Exam Final\obj\Debug\net7.0\Test Exam Final.AssemblyInfo.cs
+C:\Users\londo\Source\Repos\piprap\EASV-Test-exam\Test Exam Final\obj\Debug\net7.0\Test Exam Final.csproj.CoreCompileInputs.cache
+C:\Users\londo\Source\Repos\piprap\EASV-Test-exam\Test Exam Final\obj\Debug\net7.0\Test Exam Final.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\londo\Source\Repos\piprap\EASV-Test-exam\Test Exam Final\obj\Debug\net7.0\Test Exam Final.RazorAssemblyInfo.cache
+C:\Users\londo\Source\Repos\piprap\EASV-Test-exam\Test Exam Final\obj\Debug\net7.0\Test Exam Final.RazorAssemblyInfo.cs
+C:\Users\londo\Source\Repos\piprap\EASV-Test-exam\Test Exam Final\obj\Debug\net7.0\Test Exam Final.dll
+C:\Users\londo\Source\Repos\piprap\EASV-Test-exam\Test Exam Final\obj\Debug\net7.0\refint\Test Exam Final.dll
+C:\Users\londo\Source\Repos\piprap\EASV-Test-exam\Test Exam Final\obj\Debug\net7.0\Test Exam Final.pdb
+C:\Users\londo\Source\Repos\piprap\EASV-Test-exam\Test Exam Final\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\londo\Source\Repos\piprap\EASV-Test-exam\Test Exam Final\bin\Debug\net7.0\appsettings.json
+C:\Users\londo\Source\Repos\piprap\EASV-Test-exam\Test Exam Final\bin\Debug\net7.0\Test Exam Final.staticwebassets.runtime.json
+C:\Users\londo\Source\Repos\piprap\EASV-Test-exam\Test Exam Final\bin\Debug\net7.0\Test Exam Final.exe
+C:\Users\londo\Source\Repos\piprap\EASV-Test-exam\Test Exam Final\bin\Debug\net7.0\Test Exam Final.deps.json
+C:\Users\londo\Source\Repos\piprap\EASV-Test-exam\Test Exam Final\bin\Debug\net7.0\Test Exam Final.runtimeconfig.json
+C:\Users\londo\Source\Repos\piprap\EASV-Test-exam\Test Exam Final\bin\Debug\net7.0\Test Exam Final.dll
+C:\Users\londo\Source\Repos\piprap\EASV-Test-exam\Test Exam Final\bin\Debug\net7.0\Test Exam Final.pdb
+C:\Users\londo\Source\Repos\piprap\EASV-Test-exam\Test Exam Final\obj\Debug\net7.0\staticwebassets\msbuild.Test Exam Final.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\londo\Source\Repos\piprap\EASV-Test-exam\Test Exam Final\obj\Debug\net7.0\staticwebassets\msbuild.build.Test Exam Final.props
+C:\Users\londo\Source\Repos\piprap\EASV-Test-exam\Test Exam Final\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Test Exam Final.props
+C:\Users\londo\Source\Repos\piprap\EASV-Test-exam\Test Exam Final\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Test Exam Final.props
+C:\Users\londo\Source\Repos\piprap\EASV-Test-exam\Test Exam Final\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\londo\Source\Repos\piprap\EASV-Test-exam\Test Exam Final\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\londo\Source\Repos\piprap\EASV-Test-exam\Test Exam Final\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\londo\Source\Repos\piprap\EASV-Test-exam\Test Exam Final\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\londo\Source\Repos\piprap\EASV-Test-exam\Test Exam Final\obj\Debug\net7.0\scopedcss\bundle\Test Exam Final.styles.css
+C:\Users\londo\Source\Repos\piprap\EASV-Test-exam\Test Exam Final\obj\Debug\net7.0\scopedcss\projectbundle\Test Exam Final.bundle.scp.css
+C:\Users\londo\Source\Repos\piprap\EASV-Test-exam\Test Exam Final\obj\Debug\net7.0\Test Exam Final.genruntimeconfig.cache
+C:\Users\londo\Source\Repos\piprap\EASV-Test-exam\Test Exam Final\obj\Debug\net7.0\ref\Test Exam Final.dll

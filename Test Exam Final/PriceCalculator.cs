@@ -8,16 +8,16 @@
 
             int kmprice = 500; //starting fee
 
-            if (distance < 100)
+            if (area < 100)
             {
-                kmprice += distance * 20;
-            } else if (distance < 200)
+                kmprice += area * 20;
+            } else if (area < 200)
             {
-                kmprice += (distance-100) * 15;
+                kmprice += (area-100) * 15;
                 kmprice += 2000;
-            } else if (distance < 500)
+            } else if (area < 500)
             {
-                kmprice = (distance - 200) * 10;
+                kmprice = (area - 200) * 10;
                 kmprice += 3500;
             }
 
