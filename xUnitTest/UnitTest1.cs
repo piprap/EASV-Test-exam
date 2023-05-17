@@ -1,3 +1,4 @@
+using Test_Exam_Final;
 namespace xUnitTest
 {
     public class UnitTest1
@@ -13,10 +14,10 @@ namespace xUnitTest
         {
             //Arrange
             PriceCalculator pc = new();
-            int area = 0;
+            int area = 500;
             int totalPrice = 0;
             //Act
-            totalPrice += pc.CalculatePrice(area);
+            totalPrice = pc.CalculatePrice(area);
             //Assert
             Assert.Equal(500, totalPrice);
         }
