@@ -3,7 +3,7 @@
     public class Prisberegner
     {
 
-        static void CalculatePrice(int distance)
+        static int CalculatePrice(int area)
         {
 
             int kmprice = 500; //starting fee
@@ -32,6 +32,7 @@
             //Imprægnering  = 100
             //DoubleVask    = 010
             //Both          = 001
+            return kmprice;
         }
     }
 }
